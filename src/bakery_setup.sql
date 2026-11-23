@@ -188,7 +188,7 @@ INSERT INTO `Inventory` (`Category_ID`, `Item_ID`, `Ingredients_ID`, `Date_Time`
 
 -- Rewards
 INSERT INTO `Rewards` (`Customer_ID`, `Tier_ID`, `Tier_type`, `Customer_pn`, `Customer_firstname`, `Customer_lastname`, `Customer_email`) VALUES
-    (0, 402, 'Gold', NULL, 'Guest', 'None', NULL)
+    (0, 402, 'Gold', NULL, 'Guest', 'None', NULL),
     (1, 401, 'Silver', '2408054545', 'Jane', 'Johnson', NULL),
     (2, 400, 'Bronze', '4105085454', 'Dave', 'Stewwart', 'Dave01@frostburg.edu'),
     (3, 402, 'Gold', '4437173341', 'Dave', 'Thomas', NULL),
