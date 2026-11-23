@@ -1,4 +1,4 @@
-# 🥐 Bakery Management System
+# 🍰 Bakery Management System
 
 A Streamlit web app for managing a bakery, backed by a MySQL database. Built as a database class project.
 
