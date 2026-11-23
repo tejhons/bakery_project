@@ -1,8 +1,3 @@
-"""
-Bakery Manager - Streamlit front end for the MySQL bakery database.
-
-Run:  streamlit run app.py
-"""
 import os
 from datetime import datetime
 from decimal import Decimal

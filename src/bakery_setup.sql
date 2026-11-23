@@ -1,11 +1,3 @@
--- ============================================================================
--- Bakery database: tables + data + app user, all in one script
--- Run this whole file in MySQL Workbench (lightning-bolt button).
--- Safe to re-run: tables are created only if missing, and the data section
--- EMPTIES every table and reloads the original data (use it as a "reset").
--- Don't re-run it after entering real orders in the app unless you want them wiped.
--- ============================================================================
-
 CREATE DATABASE IF NOT EXISTS bakery;
 USE bakery;
 
